@@ -1,5 +1,12 @@
 # Boxing GUI
 
+## Packages
+
+- numpy
+- PyQt5
+- pyqtgraph
+
+
 ## App
 
 - main.py
